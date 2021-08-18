@@ -23,4 +23,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Luis Ovalle/Botones_Escenas/Scenes/Scene3_ovalle.unity
     guid: ebc8b499111fc4f499f95c4ee5eb6052
+  - enabled: 1
+    path: Assets/Fabian Garcia/Escenas/Scena3.unity
+    guid: e9bc4433013061a45a441f87e7ae39ee
+  - enabled: 1
+    path: Assets/Fabian Garcia/Escenas/Scena2.unity
+    guid: f8f62dd2d0b3c5b4aa7480e685d046ec
+  - enabled: 1
+    path: Assets/Fabian Garcia/Escenas/Scena1.unity
+    guid: 663de973c1c6beb48b2231d36b63a97e
   m_configObjects: {}
